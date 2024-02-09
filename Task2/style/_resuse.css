@@ -1,0 +1,13 @@
+:root {
+    --orange-text-color: #FD6F00;
+    --btn-bg : #FD6F00;
+    --white-text-color: #fff;
+}
+.__btn{
+    background-color: var(--orange-text-color);
+    border: none;
+    padding: 0.8rem;
+    margin: 0.5rem 0;
+    border-radius: 10px;
+    color: var(--white-text-color);
+}
